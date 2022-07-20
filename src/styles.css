@@ -1,0 +1,150 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #183263;
+  height: 100%;
+}
+
+.Chart {
+  background-image: url(https://i.ibb.co/0FK3Qs1/mod-Background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Header {
+  background-color: #183263;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 10px;
+  font-style: italic;
+  color: #efc52d;
+  width: 80%;
+}
+
+h1 {
+  color: #efc52d;
+  font-size: 60px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+
+.Nav {
+  background-color: #efc52d;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 20px;
+  border-radius: 100px;
+  width: 90%;
+  color: #183263;
+  font-size: 30px;
+}
+
+.nav-item {
+  width: 200px;
+  margin-top: 0px;
+  box-shadow: 40px 20px 40px -15px #183263;
+  transition: 0.15s all;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 50px;
+  transform: translateY(-5px);
+}
+
+.nav-item:hover {
+  box-shadow: 10px 20px 40px 15px #183263;
+  transform: translateY(-5px);
+}
+
+.nav-item.active {
+  box-shadow: 10px 20px 40px 15px #183263;
+  transform: translateY(-5px);
+}
+
+.nav-item:active {
+  background-color: #c0c0c0;
+  color: green;
+}
+
+.subTitile {
+  color: white;
+  font-size: 50px;
+}
+
+.plainText {
+  color: white;
+  text-align: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.image-gallery-thumbnail {
+  width: 120px;
+}
+
+.image-gallery-thumbnail img {
+  width: auto;
+  height: 75px;
+}
+
+.image-gallery-original {
+  width: 600px;
+}
+
+.image-gallery-original img {
+  width: auto;
+  height: 400px;
+}
+
+.btn-dropdownYelllow {
+  background-color: #efc52d;
+  color: #183263;
+  font-size: 30px;
+}
+
+.dropdown-item {
+  background-color: #efc52d;
+  color: #183263;
+}
+
+.dropdown-item:hover {
+  background-color: #183263;
+  color: #efc52d;
+}
+
+.fakeOptions {
+  height: 500px;
+}
+
+.btn-dropdownBlue {
+  width: 150px;
+  background-color: #20c5cd;
+  color: #ffffff;
+  float: 'left';
+}
+
+.btn-dropdownCheck {
+  width: 150px;
+  background: none;
+  color: #ffffff;
+  font-size: 30px;
+  float: 'left';
+}
+
+.BlueBox .dropdown-item {
+  width: 150px;
+
+  background-color: #20c5cd;
+  color: #ffffff;
+  float: left;
+}
+
+.dropdown-menu {
+  border-style: none;
+}
+
+.BlueBox .dropdown-item:hover {
+  background-color: #183263;
+  color: #efc52d;
+}

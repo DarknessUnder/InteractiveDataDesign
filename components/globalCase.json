@@ -1,0 +1,70 @@
+[
+  {
+    "Country": "United Kingdom",
+    "Cofirmed_Cases": 793
+  },
+  {
+    "Country": "Spain",
+    "Cofirmed_Cases": 479
+  },
+  {
+    "Country": "Germany",
+    "Cofirmed_Cases": 469
+  },
+  {
+    "Country": "Portugal",
+    "Cofirmed_Cases": 304
+  },
+  {
+    "Country": "France",
+    "Cofirmed_Cases": 277
+  },
+  {
+    "Country": "Canada",
+    "Cofirmed_Cases": 210
+  },
+  {
+    "Country": "United States",
+    "Cofirmed_Cases": 141
+  },
+  {
+    "Country": "Italy",
+    "Cofirmed_Cases": 71
+  },
+  {
+    "Country": "Switzerland",
+    "Cofirmed_Cases": 41
+  },
+  {
+    "Country": "Czech Republic",
+    "Cofirmed_Cases": 20
+  },
+  {
+    "Country": "Israel",
+    "Cofirmed_Cases": 18
+  },
+  {
+    "Country": "Finland",
+    "Cofirmed_Cases": 17
+  },
+  {
+    "Country": "Belgium",
+    "Cofirmed_Cases": 16
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Cofirmed_Cases": 13
+  },
+  {
+    "Country": "Denmark",
+    "Cofirmed_Cases": 12
+  },
+  {
+    "Country": "Sweden",
+    "Cofirmed_Cases": 10
+  },
+  {
+    "Country": "Netherlands",
+    "Cofirmed_Cases": 9
+  }
+]
